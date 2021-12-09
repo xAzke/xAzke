@@ -3,7 +3,7 @@
 - 💞️ Siempre estoy disponible para realizar proyectos en la plataforma de MTA:SA
 - 📷 Portafolios en creacion.
 --->
-- 📫 Puedes contactarme por mi discord [Azke](https://discord.com/users/858176837733711882) (Estoy casi todo el dia conectado)
+- 📫 Puedes contactarme por mi discord [Azke](https://discord.com/users/394920068447731712) (Estoy casi todo el dia conectado)
 - ⚙️ Actualmente estoy trabajando en Rio Futaba una bot multifuncional para discord
 
 <!---
