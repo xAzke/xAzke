@@ -1,4 +1,7 @@
-![](https://github.com/xAzke/xAzke/blob/main/assets/pqtavazio.png)
+<p align="center" >
+  ![](https://github.com/xAzke/xAzke/blob/main/assets/pqtavazio.png)
+</p>
+
 
 
 ## 📈 Stats
