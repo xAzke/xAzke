@@ -1,8 +1,6 @@
 <p align="center" >
-  ![A](https://github.com/xAzke/xAzke/blob/main/assets/pqtavazio.png)
+  <img height ="180em" src="https://github.com/xAzke/xAzke/blob/main/assets/pqtavazio.png" />
 </p>
-
-
 
 ## 📈 Stats
 <p align="center">
