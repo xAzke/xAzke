@@ -11,5 +11,5 @@
 
 ## 📜 Contacto
 <p align="center" >
-  <a href="discord.gg"> <img alt="Discord" src="https://img.shields.io/badge/Website-dineshkarthik.me-blue?style=flat&logo=google-chrome"></a>
+  <a href="discord.gg"> <img alt="Discord" src="https://img.shields.io/badge/Website-AzKe-blue?style=flat&logo=discord"></a>
 </p>
