@@ -2,7 +2,7 @@
   <img height ="300em" src="https://github.com/xAzke/xAzke/blob/main/assets/pqtavazio.png" />
 </p>
 
-### Hey
+## 👋 Hey 
 
 ## 📈 Stats
 <p align="center">
