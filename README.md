@@ -11,5 +11,5 @@
 
 ## 📜 Contacto
 <p align="center" >
-  <a href="https://discord.com/users/928486152464388106"> <img alt="Discord" src="https://img.shields.io/badge/Website-AzKe-blue?style=flat&logo=discord"></a>
+  <a href="https://discord.com/users/928486152464388106"> <img alt="Discord" src="https://img.shields.io/badge/Discord-AzKe-blue?style=flat&logo=discord"></a>
 </p>
