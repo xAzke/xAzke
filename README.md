@@ -2,7 +2,8 @@
   <img height ="200em" src="https://github.com/xAzke/xAzke/blob/main/assets/pqtavazio.png" />
 </p>
 
-## 👋 Hey 
+## 👋 Hey
+- Actualmente estoy trabajando en [New Generation RP](https://discord.gg/KVFPYUEtr7)
 
 ## 📈 Stats
 <p align="center">
