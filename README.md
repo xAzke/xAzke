@@ -5,6 +5,7 @@
 ## 👋 Hey
 - 🔧 Actualmente estoy trabajando en [New Generation RP](https://discord.gg/KVFPYUEtr7)
 - 🌱 Programador en Lua y JavaScript
+- ⚔️ Disponible para proyectos en MTA:SA
 
 ## 📈 Stats
 <p align="center">
