@@ -13,9 +13,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xAzke&hide_border=true&theme=synthwave" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAzke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📜 Contacto
 <p align="center" >
   <a href="https://discord.com/users/928486152464388106"> <img alt="Discord" src="https://img.shields.io/badge/Discord-AzKe-blue?style=flat&logo=discord"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAzke&layout=compact"></a>
 </p>
