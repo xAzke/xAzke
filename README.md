@@ -3,6 +3,7 @@
 </p>
 
 ## 👋 Hey
+- Programador en Lua y JavaScript
 - Actualmente estoy trabajando en [New Generation RP](https://discord.gg/KVFPYUEtr7)
 
 ## 📈 Stats
