@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 Hey
-- 🔧 Actualmente estoy trabajando en [New Generation RP](https://discord.gg/KVFPYUEtr7)
+- 🔧 Actualmente estoy trabajando en [New Generation RP](https://discord.gg/KVFPYUEtr7) & KaosRP
 - 🌱 Programador en Lua y JavaScript
 - ⚔️ Disponible para proyectos en MTA:SA (Roleplay, Freeroam, Cops And Robbers)
 
