@@ -1,5 +1,5 @@
 <p align="center" >
-  <img height ="200em" src="https://github.com/xAzke/xAzke/blob/main/assets/pqtavazio.png" />
+  <img height ="200em" src="https://github.com/xAzke/xAzke/blob/main/assets/zyro-image%20(1).png" />
 </p>
 
 ## 👋 Hey
