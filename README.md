@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 Hey
-- 🔧 Actualmente estoy trabajando en [Fixitas Freeroam](https://discord.gg/WDZjpnW4Yf)
+- 🔧 Actualmente estoy trabajando en N/A
 - 🌱 Programador en Lua y JavaScript
 - ⚔️ Disponible para proyectos en MTA:SA (Roleplay, Freeroam, Cops And Robbers)
 
