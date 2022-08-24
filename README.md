@@ -1,7 +1,6 @@
 ## 👋 Hey
-- 🔧 Actualmente estoy trabajando en N/A
+- 🔧 Actualmente estoy trabajando en KaosRP, GTA Welcome To Chile
 - 🌱 Programador en Lua y JavaScript
-- ⚔️ Disponible para proyectos en MTA:SA (Roleplay, Freeroam, Cops And Robbers)
 
 ## 📈 GitHub Stats
 <p align="center">
