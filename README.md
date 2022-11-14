@@ -1,5 +1,5 @@
 ## 👋 Hey
-- 🔧 Actualmente estoy trabajando en KaosRP, GTA Welcome To Chile
+- 🔧 Actualmente estoy trabajando en KaosRP, ChileanLife
 - 🌱 Programador en Lua y JavaScript
 
 ## 📈 GitHub Stats
