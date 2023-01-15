@@ -1,22 +1,18 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/banners/394920068447731712/3c58794d8792480d63182a92b12a8da7.png?size=2048" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/banners/394920068447731712/3c58794d8792480d63182a92b12a8da7.png?size=1280" align="center" style="width: 100%" />
 </div>  
   
-
 ### <ins><div align="center">Hi 👋, I'm Diego Riquelme</div></ins>  
   
 
-- *🔭 I’m currently working on [ChileanLife](https://discord.gg/w8MGmzRqey) & KaosRP*  
+- 🚀 I’m currently working on [ChileanLife](https://discord.gg/w8MGmzRqey) & KaosRP  
   
 
-- *🌱 I’m currently learning JavaScript, TypeScript, C#, Lua*  
+- 🌱 I’m currently learning JavaScript, TypeScript, C#, Lua  
   
 
-- *⚡ Fun fact: I use tabs over spaces*  
-  
-
+- ⚡ Fun fact: I use tabs over spaces 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -50,6 +46,3 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31cosyseyb6gtimofl4nn7uicwr4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
