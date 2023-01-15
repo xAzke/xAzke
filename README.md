@@ -5,7 +5,7 @@
 ### <ins><div align="center">Hi 👋, I'm Diego Riquelme</div></ins>  
   
 
-- 🚀 I’m currently working on [ChileanLife](https://discord.gg/w8MGmzRqey) & KaosRP  
+- 🚀 I’m currently working on [ChileanLife](https://discord.gg/w8MGmzRqey) & KaosRP
   
 
 - 🌱 I’m currently learning JavaScript, TypeScript, C#, Lua  
@@ -22,15 +22,23 @@
 <a href="https://instagram.com/azke.cl" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/xAzke" target="_blank">
+<a href="https://www.youtube.com/user/x4zke" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/xAzke" target="_blank">
+<a href="https://stackoverflow.com/users/xazke" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/xAzke" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<div align="center" style="width:19.5%;display: inline-block;"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31cosyseyb6gtimofl4nn7uicwr4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
+
+<div align="center" style="display: inline-block;"><img src="https://lanyard.cnrad.dev/api/394920068447731712" /></div>
 </div>  
   
 
@@ -42,7 +50,4 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAzke&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31cosyseyb6gtimofl4nn7uicwr4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
-<br />
+<br/> 
