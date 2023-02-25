@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/banners/394920068447731712/3c58794d8792480d63182a92b12a8da7.png?size=1280" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/banners/394920068447731712/a_8fdd2033f79c50ef4e461f39eeb6062e.gif?size=2048" align="center" style="width: 100%" />
 </div>  
   
 ### <ins><div align="center">Hi 👋, I'm Diego Riquelme</div></ins>  
