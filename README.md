@@ -3,14 +3,6 @@
 </div>  
   
 ### <ins><div align="center">Hi 👋, I'm Diego Riquelme</div></ins>  
-  
-
-- 🚀 I’m currently working on [ChileanLife](https://discord.gg/w8MGmzRqey) & KaosRP
-  
-
-- 🌱 I’m currently learning JavaScript, TypeScript, C#, Lua  
-  
-
 - ⚡ Fun fact: I use tabs over spaces 
 <br/>  
 
@@ -40,8 +32,8 @@
 <img src=https://lanyard.cnrad.dev/api/394920068447731712 alt=gitlab style="margin-bottom: 5px;" />
 </a>
 
-<p href="https://open.spotify.com/user/31cosyseyb6gtimofl4nn7uicwr4" target="_blank">
-<img src=https://spotify-github-profile.vercel.app/api/view?uid=31cosyseyb6gtimofl4nn7uicwr4&cover_image=true&theme=default&show_offline=false&background_color=121212 style="margin-bottom: 5px;" width=360 />
+<p href="https://open.spotify.com/user/312qfnemhny4wu6cc4rpnes7bz3y" target="_blank">
+<img src=https://spotify-github-profile.vercel.app/api/view?uid=312qfnemhny4wu6cc4rpnes7bz3y&cover_image=true&theme=default&show_offline=false&background_color=121212 style="margin-bottom: 5px;" width=360 />
 </p>
 
 <br/>  
