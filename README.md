@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/banners/394920068447731712/a_8fdd2033f79c50ef4e461f39eeb6062e.gif?size=2048" align="center" style="width: 100%" />
+<img src="https://media.discordapp.net/attachments/858193519482896414/1095603256996147210/980830.png?width=749&height=468" align="center" style="width: 100%" />
 </div>  
   
 ### <ins><div align="center">Hi 👋, I'm Diego Riquelme</div></ins>  
-- ⚡ Fun fact: I use tabs over spaces 
 <br/>  
 
 ## Connect with me  
