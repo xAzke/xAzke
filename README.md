@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.discordapp.net/attachments/858193519482896414/1095603256996147210/980830.png?width=749&height=468" align="center" style="width: 100%" />
+<!-- <img src="https://media.discordapp.net/attachments/858193519482896414/1095603256996147210/980830.png?width=749&height=468" align="center" style="width: 100%" /> -->
 </div>  
   
 ### <ins><div align="center">Hi 👋, I'm Diego Riquelme</div></ins>  
@@ -32,7 +32,7 @@
 </a>
 
 <p href="https://open.spotify.com/user/312qfnemhny4wu6cc4rpnes7bz3y" target="_blank">
-<img src=https://spotify-github-profile.vercel.app/api/view?uid=312qfnemhny4wu6cc4rpnes7bz3y&cover_image=true&theme=default&show_offline=false&background_color=121212 style="margin-bottom: 5px;" width=360 />
+<img src=https://spotify-github-profile.vercel.app/api/view.svg?uid=312qfnemhny4wu6cc4rpnes7bz3y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4ea1b1&bar_color_cover=true style="margin-bottom: 5px;" width=360 />
 </p>
 
 <br/>  
