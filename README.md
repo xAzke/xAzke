@@ -5,8 +5,12 @@
 ### <ins><div align="center">Hi 👋, I'm Diego Riquelme</div></ins>  
 <br/>  
 
-<div align="center">
-## 🔖 Redes Sociales
+<div align="center"> 
+  
+   ## 🔖 Redes Sociales
+  
+  
+  
 <a href="https://github.com/xAzke" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
