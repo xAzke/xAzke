@@ -5,7 +5,7 @@
 ### <ins><div align="center">Hi 👋, I'm Diego Riquelme</div></ins>  
 <br/>  
 
-## Connect with me  
+## 🔖 Redes Sociales
 <div align="center">
 <a href="https://github.com/xAzke" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -36,6 +36,8 @@
 </p>
 
 <br>
+ 
+ ## ⭐ Mis estadisticas en GitHub
 <div>
   <a href="https://github.com/xAzke">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xAzke&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
