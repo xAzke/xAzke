@@ -35,12 +35,10 @@
 <img src=https://spotify-github-profile.vercel.app/api/view.svg?uid=312qfnemhny4wu6cc4rpnes7bz3y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4ea1b1&bar_color_cover=true style="margin-bottom: 5px;" width=360 />
 </p>
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xAzke&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAzke&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/> 
+<br>
+<div>
+  <a href="https://github.com/xAzke">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xAzke&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAzke&layout=compact&langs_count=7&theme=dark">
+  </a>
+</div>
